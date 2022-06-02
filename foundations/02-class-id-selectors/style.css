@@ -1,0 +1,19 @@
+.shared {
+    background-color: rgb(199, 146, 146);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: hsl(240, 76%, 59%);
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
